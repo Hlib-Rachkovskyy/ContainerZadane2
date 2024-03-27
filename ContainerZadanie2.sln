@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerZadanie2", "ContainerZadanie2\ContainerZadanie2.csproj", "{DBCBC032-7ACF-4F8F-AAE1-1F687FE21415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCBC032-7ACF-4F8F-AAE1-1F687FE21415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCBC032-7ACF-4F8F-AAE1-1F687FE21415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCBC032-7ACF-4F8F-AAE1-1F687FE21415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCBC032-7ACF-4F8F-AAE1-1F687FE21415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
